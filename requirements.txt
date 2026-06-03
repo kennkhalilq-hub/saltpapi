@@ -6,5 +6,5 @@ flask
 colorama
 rich
 fake_useragent
-requests[socks]
+requests
 PySocks

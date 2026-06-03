@@ -1,0 +1,10 @@
+pyTelegramBotAPI
+cloudscraper
+pycryptodome
+requests
+flask
+colorama
+rich
+fake_useragent
+requests[socks]
+PySocks
